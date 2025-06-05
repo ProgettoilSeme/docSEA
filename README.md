@@ -1,2 +1,2 @@
 # docSEA
-Documentazione SEA {@link docSEA/wiki ll}
+[Documentazione](/docSEA/wiki/) SEA 

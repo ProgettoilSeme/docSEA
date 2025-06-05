@@ -1,2 +1,2 @@
 # docSEA
-[Documentazione](/docSEA/wiki/) SEA 
+[Documentazione](https://github.com/ProgettoIlSeme/docSEA/wiki) SEA 
